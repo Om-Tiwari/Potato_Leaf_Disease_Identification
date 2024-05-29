@@ -67,7 +67,7 @@ st.sidebar.subheader("Test with Example Images")
 # Example image filenames
 example_images = [
     "EarlyB.jpg",
-    "LateB.jpg",
+    "LateB.png",
     "Healthy.jpg",
 ]
 
