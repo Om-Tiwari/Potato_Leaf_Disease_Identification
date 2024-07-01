@@ -111,3 +111,5 @@ if uploaded_file is not None:
     st.write("---")
     st.write("**About the Model:**")
     st.write("This model was trained on a dataset of potato leaf images, including examples of early blight, late blight, and healthy leaves. The model architecture consists of several convolutional and pooling layers followed by dense layers. The model was trained using TensorFlow and Keras, and it achieved an accuracy of approximately 90% on a held-out test set.")
+
+st.write("Made by https://www.linkedin.com/in/mrsus/")
